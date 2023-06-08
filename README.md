@@ -18,3 +18,5 @@ The Ecommerce Customers file from the company has Customer info, such as Email, 
 
 ## Purpose:
 The company is trying to decide whether to focus their efforts on their mobile app experience or their website.
+
+#### Data is analyzed step by step, please refer to [Linear Regression Project.ipynb](https://github.com/Maryam-Hosseini91/Linear-Regression-Project/blob/main/Linear%20Regression%20Project.ipynb)
